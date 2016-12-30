@@ -1,0 +1,12 @@
+"*":
+  core:
+    openEmptyEditorOnStart: false
+    telemetryConsent: "no"
+    useCustomTitleBar: true
+  editor:
+    fontFamily: "Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\""
+    showIndentGuide: true
+    softWrap: true
+    zoomFontWhenCtrlScrolling: false
+  welcome:
+    showOnStartup: false
