@@ -1,5 +1,8 @@
 "*":
   core:
+    disabledPackages: [
+      "wrap-guide"
+    ]
     openEmptyEditorOnStart: false
     telemetryConsent: "no"
     useCustomTitleBar: true
