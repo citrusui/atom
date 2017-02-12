@@ -5,7 +5,7 @@ My personal setup for [Atom,](https://atom.io) a hackable text editor for the 21
 ## Install
 
 ```sh
-git clone https://github.com/citrusui/atom && source atom/init.sh
+git clone https://github.com/citrusui/atom && ./atom/init.sh
 ```
 
 Licensed under [MIT.](LICENSE.md)
